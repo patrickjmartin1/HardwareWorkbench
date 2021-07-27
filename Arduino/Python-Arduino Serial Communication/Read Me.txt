@@ -1,0 +1,7 @@
+How to use:
+
+1) Go ahead and configure the arduino to utilize the LCD screen per the sparkfun inventors kit lesson
+
+2) Upload the script from LCD_Python to the arduino. Keep Ardy plugged in.
+
+3) Open the script in the Python_Interface. Hit run, and python and ardy will keep start to one another. 
